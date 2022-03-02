@@ -1,0 +1,5 @@
+streamlit == 1.6.0
+pandas == 1.4.1 
+joblib == 1.1.0  
+numpy == 1.21.2
+geopy == 2.2.0 
